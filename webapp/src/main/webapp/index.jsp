@@ -9,12 +9,16 @@
     <br>
     
     <label for="mobile"><b>Enter mobile</b></label>
-    <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
+    <input type="text" placeholder="Enter mobile number" name="mobile" id="mobile" required>
     <br>
 
     <label for="email"><b>Enter Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
+
+    <label for="email"><b>Repeat Enter Email</b></label>
+    <input type="text" placeholder="Repeat Enter Email" name="email" id="email" required>
+    <br 
 
     <label for="psw"><b>Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
@@ -31,5 +35,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, We promise you this will be a great learning experience. We wish you all the best always Happy Learning.  </h1>
+   <h1> Yaay!!!!! Thankyou, We promise you this will be a great learning experience. We wish you all the best always Happy Learning.  </h1>
 </form>
