@@ -1,6 +1,10 @@
 <form action="action_page.php">
   <div class="container">
+<<<<<<< HEAD
     <h1>New user Register for DevOps Masterclass</h1>
+=======
+    <h1>New user Register</h1>
+>>>>>>> parent of 1bf5f35 (added simple commit)
     <p>Please fill in this form to create an account.</p>
     <hr>
      
