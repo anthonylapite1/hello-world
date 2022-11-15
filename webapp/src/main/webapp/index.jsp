@@ -39,5 +39,5 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Yaay!!!!! Thankyou, We promise you this will be a great learning experience. We wish you all the best always Happy Learning.  </h1>
+   <h1> Yaay!!!!! Tokunboh Baado  We wish you all the best always.  </h1>
 </form>
