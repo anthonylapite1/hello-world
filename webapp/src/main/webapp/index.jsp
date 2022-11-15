@@ -2,5 +2,5 @@
   <label for="fname">First name:</label><br>
   <input type="text" id="fname" value="John"><br><br>
   <input type="submit" value="Submit">
-  <input type="text" value="Deloiite is a great place to work">
+  <input type="text" value="Deloiite is a great place to work"><br><br>
 </form>>>
