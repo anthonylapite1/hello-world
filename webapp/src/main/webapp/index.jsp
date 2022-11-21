@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register</h1>
-    <I LOVE WORKING AT COZNIZANT</P>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
@@ -22,5 +21,4 @@
   <div class="container signin">
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
-</formi>
-
+</form>
